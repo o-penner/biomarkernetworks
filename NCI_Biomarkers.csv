@@ -1,0 +1,781 @@
+Biomarker,Type,Organ(s)
+4DELF,Proteomic,Colon
+5p15,Genomic,Lung
+7p12 (EGFR),Genomic,Lung
+8 Gene Panel for Barretts Esophagus,Panel,Esophagus
+80 Gene Panel for Lung Cancer,Panel,Lung
+8q24 (C-MYC),Genomic,Lung
+ABCA2,Gene,Prostate
+Aberrant Vimentin DNA Methylation in Stool,Epigenetic,Colon
+ACBP,Protein,Lung
+ACKR3,Protein,Ovary
+ACO1,Gene,Prostate
+ACSL3,Gene,Prostate
+ACTC1,Gene,Prostate
+ACTR3,Protein,Ovary
+ACY1,Gene,Prostate
+ADAM12,Protein,Ovary
+ADH5,Protein,Breast
+ADIPOQ,Protein,Breast
+AFP,Protein,"Breast, Liver, Ovary"
+AFP-L3,Protein,Liver
+AFPIC,Protein,Liver
+AGR2,Gene,Prostate
+AGRN,Protein,Ovary
+AGTPBP1,Gene,Prostate
+AHNAK2,Gene,Prostate
+AKAP12,Genomic,Esophagus
+AKR1B1,Protein,Breast
+AKR1B10,Gene,Lung
+AKR1C2,Protein,Breast
+ALCAM,Protein,Pancreas
+ALDH1A2,Gene,Prostate
+ALDH3A1,Gene,Lung
+ALG10,Protein,Breast
+ALPL,Protein,Breast
+AMACR,Protein,Prostate
+AMBP,Protein,Ovary
+AMD1,Gene,Prostate
+AMFR,Gene,Prostate
+AMY2A,Protein,Ovary
+ANG,Protein,Lung
+ANGPTL3,Protein,Lung
+ANKRD40,Gene,Prostate
+Annexin 1 and SOX2,Protein,Lung
+ANO1,Protein,Breast
+ANXA1,Protein,"Breast, Lung"
+ANXA2,Protein,"Lung, Ovary, Prostate"
+ANXA3,Gene,Prostate
+AP1S2,Gene,Prostate
+AP3B2,Protein,Breast
+APAF1,Protein,Breast
+APC,Genomic,"Lung, Prostate"
+APCS,Protein,Ovary
+APEX1,Protein,Lung
+APOA1,Protein,Ovary
+APOB,Protein,Ovary
+APOC4,Protein,Ovary
+APOLD1,Gene,Prostate
+AREG,Proteomic,Pancreas
+ARHGDIA,Gene,Prostate
+ARHGEF16,Protein,Breast
+ARHGEF40,Gene,Prostate
+ARID5A,Gene,Prostate
+ATF3,Protein,"Breast, Prostate"
+ATP6AP1,Protein,Breast
+ATP6AP2,Protein,Ovary
+ATP6V1G1,Protein,Breast
+AUH,Gene,Prostate
+AZGP1,Gene,Prostate
+B2M,Protein,Ovary
+BAC clone RP11-499F19,Protein,Lung
+Bajtarevic VOCs signature,Protein,Lung
+BANK1,Protein,Breast
+BCAM,Protein,Ovary
+BCHE,Gene,Prostate
+BCL2L14,Gene,Prostate
+BCL2L2,Protein,Breast
+BDNF,Protein,"Breast, Prostate"
+BGLAP,Protein,Breast
+BHMT2,Gene,Prostate
+Bianchi 34-marker miRNA Signature for Lung Cancer,Panel,Lung
+BIN1,Gene,Prostate
+BLVRB,Protein,Ovary
+BMP1,Protein,Lung
+BMX,Protein,Breast
+Boeri miRNA signature of diagnosis of lung cancer,Panel,Lung
+Boeri miRNA signature of risk for lung cancer,Panel,Lung
+BPIFA1,Gene,Lung
+BPSA,Protein,Prostate
+BRCA1,Protein,Breast
+BTN2A1,Gene,Prostate
+BVES,Gene,Lung
+C15orf48,Protein,Breast
+C1QBP,Gene,Prostate
+C1S,Protein,Lung
+C3,Protein,Ovary
+C6orf62,Gene,Prostate
+C7,Gene,Prostate
+C9,Protein,Lung
+CA125,Protein,"Breast, Ovary"
+CA15-3,Protein,"Breast, Lung, Ovary, Prostate"
+CA19-9,Protein,"Breast, Ovary, Pancreas, Prostate"
+CA72-4,Protein,Ovary
+CADM1,Protein,Ovary
+CAGE,Protein,Lung
+CALCA,Gene,Head-and-neck
+CALR,Gene,Prostate
+CAND2,Gene,Prostate
+CAPN1,Protein,Lung
+CAPNS1,Protein,Lung
+CAT,Gene,Lung
+CAV1,Gene,Prostate
+CAVIN1,Gene,Prostate
+CAVIN2,Gene,Prostate
+CBLC,Protein,"Lung, Ovary"
+CBX4,Gene,Prostate
+CCDC102B,Protein,Ovary
+CCDC69,Gene,Prostate
+CCDC91,Gene,Prostate
+CCL11,Protein,"Breast, Ovary"
+CCL13,Protein,Breast
+CCL15,Protein,Lung
+CCL17,Protein,Breast
+CCL18,Protein,"Lung, Prostate"
+CCL2,Protein,Breast
+CCL20,Gene,Prostate
+CCL22,Protein,Breast
+CCL26,Protein,Breast
+CCL27,Protein,Breast
+CCL28,Protein,Breast
+CCL4,Protein,Breast
+CCL5,Protein,Breast
+CCND1,Protein,Breast
+CCNG2,Gene,Prostate
+CCSA-2,Protein,Colon
+CCSA-3,Protein,Colon
+CCSA-4,Protein,Colon
+CCSP-1,Protein,Colon
+CCSP-2,Protein,Colon
+CD14,Protein,Liver
+CD164,Gene,Prostate
+CD177,Gene,Prostate
+CD1A,Protein,Breast
+CD24,Gene,Prostate
+CD248,Protein,Ovary
+CD2AP,Gene,Prostate
+CD59,Protein,Ovary
+CDC42EP3,Gene,Prostate
+CDCP1,Protein,Ovary
+CDH1,Genomic,"Breast, Lung, Prostate"
+CDH13,Genomic,"Esophagus, Lung"
+CDH3,Protein,Breast
+CDK16,Gene,Prostate
+CDK5,Protein,Lung
+CDK5R1,Protein,Lung
+CDK7,Protein,Prostate
+CDKN1A,Gene,Prostate
+CDKN1C,Gene,Prostate
+CDKN2C,Gene,Prostate
+CEACAM1,Gene,Prostate
+CEACAM5,Protein,"Breast, Lung, Ovary, Prostate"
+CEBPD,Gene,Prostate
+CEBPG,Gene,Lung
+CEP3,Genomic,Lung
+CEP6,Genomic,Lung
+CFB,Gene,Prostate
+Chen 10-marker miRNA signature for non-small cell lung cancer,Panel,Lung
+CHGA,Protein,Breast
+CHI3L1,Protein,Ovary
+CHN2,Gene,Prostate
+CKB,Protein,Lung
+CKM,Protein,"Lung, Ovary"
+CLDN8,Gene,Prostate
+CLIP3,Gene,Prostate
+CNTN5,Protein,Lung
+COL4A2,Gene,Prostate
+COX7A1,Protein,Breast
+CP,Gene,Prostate
+CPA4,Protein,Ovary
+CPB1,Gene,Prostate
+CPM,Gene,Prostate
+CPXCR1,Protein,Breast
+Cramer 5-marker panel for ovarian cancer,Panel,Ovary
+CRIP1,Protein,Ovary
+CRIP2,Protein,Ovary
+CRP,Protein,Breast
+CRTAC1,Protein,"Ovary, Prostate"
+CRTC3,Gene,Prostate
+CRYAB,Protein,Breast
+CRYBG1,Protein,Lung
+CSDC2,Gene,Prostate
+CSF1,Protein,Breast
+CSGALNACT1,Gene,Prostate
+CSNK1E,Protein,Breast
+CSNK2A1,Gene,Prostate
+CSPG4,Gene,Prostate
+CSRP2,Protein,Breast
+CST6,Protein,Ovary
+CSTA,Proteomic,Lung
+CTBP1,Protein,Breast
+CTCFL,Protein,Ovary
+CTGF,Protein,Ovary
+CTIF,Gene,Prostate
+CTNNB1,Proteomic,Pancreas
+CTSE,Proteomic,Pancreas
+CXADR,Gene,Prostate
+CXCL1,Gene,Prostate
+CXCL10,Protein,Breast
+CXCL13,Protein,Lung
+CXCL2,Gene,Prostate
+CXCL5,Gene,Prostate
+CXCL8,Protein,"Breast, Lung, Ovary, Prostate"
+CYFRA 21-1,Protein,Lung
+CYGB,Genomic,Lung
+CYP1B1,Gene,Prostate
+CYP24A1,Gene,Lung
+Cytochrome C,Protein,Lung
+DAAM2,Gene,Prostate
+DAG1,Protein,Ovary
+DAP,Gene,Lung
+DAPK1,Genomic,Lung
+DAPL1,Protein,Ovary
+DBN1,Gene,Prostate
+DBT,Protein,Breast
+DCC,Protein,"Head-and-neck, Lung"
+DCP,Protein,Liver
+DEFB1,Protein,Ovary
+Des-ubiquitin,Proteomic,Lung
+DGCR6,Protein,Breast
+DGLUCY,Gene,Prostate
+DISP3,Proteomic,Pancreas
+DKK3,Protein,Ovary
+DLG3,Gene,Prostate
+DMPK,Gene,Prostate
+DMWD,Gene,Prostate
+DMXL1,Gene,Prostate
+DNAJB6,Gene,Prostate
+DNAJC15,Gene,Prostate
+DNAJC3,Gene,Prostate
+DNAJC7,Protein,Breast
+DPP4,Gene,Prostate
+DPYSL3,Gene,Prostate
+DSC2,Protein,Ovary
+DSG2,Protein,"Ovary, Prostate"
+DUSP22,Gene,Prostate
+DUSP9,Protein,Breast
+DYSF,Gene,Prostate
+E2F1,Gene,Lung
+EAF2,Gene,Prostate
+ECM1,Protein,Ovary
+EDNRB,Gene,Head-and-neck
+EED,Protein,Breast
+EEF1A1,Protein,Lung
+EFCAB14,Gene,Prostate
+EFEMP1,Protein,"Lung, Ovary, Prostate"
+EFNA5,Protein,Breast
+EFR3A,Protein,Ovary
+EGFL6,Protein,Ovary
+EGFR,Protein,"Breast, Lung, Ovary"
+EHF,Gene,Prostate
+EIF3E,Protein,Breast
+EIF5A,Gene,Prostate
+ELF2,Protein,Breast
+ELF5,Gene,Prostate
+ELOVL2,Gene,Prostate
+EMILIN2,Protein,Ovary
+Endostatin,Protein,Lung
+ENG,Protein,Breast
+ENO2,Protein,"Lung, Prostate"
+ENTPD5,Gene,Prostate
+EP300,Protein,Breast
+EPB41L3,Protein,Ovary
+EPCAM,Protein,Ovary
+EPM2A,Gene,Prostate
+EPSTI1,Protein,Ovary
+ERBB2,Protein,"Breast, Lung, Ovary"
+ERBB3,Gene,Prostate
+ERCC4,Gene,Lung
+ERCC5,Gene,Lung
+ERG,Gene,Prostate
+ESM1,Protein,Ovary
+EXOC6B,Protein,Lung
+EXOSC2,Gene,Prostate
+EYA4,Proteomic,Pancreas
+FABP5,Protein,Breast
+FADS2,Gene,Prostate
+FAIM2,Gene,Prostate
+FAM131B,Gene,Prostate
+FAM234B,Gene,Prostate
+FAM55D,Gene,Prostate
+FAM83H,Protein,Ovary
+Farlow 6-marker panel for Lung Cancer,Panel,Lung
+FAS,Protein,"Breast, Ovary"
+FBLN1,Protein,"Ovary, Prostate"
+fbpA,Protein,Breast
+FBXO9,Gene,Prostate
+FCER1A,Gene,Prostate
+FERMT2,Gene,Prostate
+FEZ1,Gene,Prostate
+FGF17,Protein,Lung
+FGF2,Protein,"Breast, Lung"
+FGFR4,Protein,Ovary
+FHIT,Protein,Lung
+FHL1,Gene,Prostate
+FHL3,Gene,Prostate
+FHOD3,Gene,Prostate
+FJX1,Protein,Ovary
+FKBP11,Gene,Prostate
+FLNA,Protein,Prostate
+FLNC,Gene,Prostate
+FLT1,Protein,Breast
+FLT3LG,Protein,Breast
+FMO5,Gene,Prostate
+FNDC3A,Protein,Ovary
+FOLH1,Gene,Prostate
+FOLH1B,Protein,"Ovary, Prostate"
+FOLR1,Protein,Ovary
+FOXD1,Gene,Prostate
+FOXE1,Proteomic,Pancreas
+FRS3,Protein,Breast
+FSH,Protein,Ovary
+FSTL1,Protein,Ovary
+FTH1P5,Gene,Prostate
+FXYD6,Gene,Prostate
+FYN,Protein,Lung
+FZD10,Protein,Ovary
+G3BP1,Gene,Prostate
+GADD45A,Gene,Prostate
+GADD45B,Gene,Prostate
+GAGE7,Protein,Lung
+galectin-3 ligand,Protein,Colon
+GALNT3,Gene,Prostate
+GALNT7,Gene,Prostate
+Garcia chromosomal aneusomy + cytology,Protein,Bladder
+GATA4,Gene,Head-and-neck
+GBU4-5,Protein,Lung
+GCLM,Protein,Breast
+GDF15,Protein,Ovary
+GDNF,Gene,Lung
+GEM,Gene,Prostate
+GFPT1,Protein,Ovary
+GGT1,Gene,Prostate
+GH1,Protein,Ovary
+GLDC,Gene,Prostate
+GLO1,Protein,Breast
+GLOD4,Protein,Ovary
+GLRX,Gene,Prostate
+GLUD1,Gene,Prostate
+GM2A,Protein,Ovary
+GNAS,Proteomic,Pancreas
+GNB4,Protein,Breast
+GNB5,Gene,Prostate
+GOLM1,Protein,"Liver, Prostate"
+GPANK1,Protein,Breast
+GPI,Protein,Breast
+GPKOW,Protein,Breast
+GPM6B,Protein,"Ovary, Prostate"
+GPNMB,Gene,Prostate
+GPR157,Protein,Breast
+GPR39,Protein,Ovary
+GPR65,Protein,Ovary
+MiPS (Mi Prostate Score Urine test),Panel,Prostate
+MIR126,Genomic,Lung
+MIR200B,Protein,Lung
+MIR21,Genomic,Lung
+MIR210,Genomic,Lung
+MIR375,Protein,Lung
+MIR486-1,Protein,Lung
+MIR486-5p,Genomic,Lung
+Mitochondrial Genome Deletion for Detection of Prostate Cancer,Genomic,Prostate
+MKI67,Protein,Prostate
+MLX,Gene,Prostate
+MMP1,Protein,Breast
+MMP10,Gene,"Breast, Prostate"
+MMP2,Protein,"Breast, Ovary"
+MMP28,Gene,Prostate
+MMP3,Protein,"Breast, Ovary"
+MMP7,Protein,Ovary
+MMP9,Protein,"Breast, Lung, Ovary"
+MMRN2,Gene,Prostate
+MPG,Protein,Lung
+MPO,Protein,Ovary
+MPPED2,Protein,"Ovary, Prostate"
+MPZ,Gene,Prostate
+MPZL2,Protein,"Ovary, Prostate"
+MRC1,Protein,Lung
+MSLN,Protein,"Breast, Ovary"
+MSRA,Gene,Prostate
+MSX2,Gene,Prostate
+MTA1,Protein,Prostate
+MTHFR,Gene,Lung
+MTMR11,Gene,Prostate
+MTO1,Gene,Prostate
+MUC5AC,Protein,Pancreas
+MUC5AC:BGH,Proteomic,Pancreas
+MUC5AC:WGA,Proteomic,Pancreas
+MXRA5,Protein,Ovary
+MXRA7,Gene,Prostate
+MYC,Gene,"Breast, Lung"
+MYCBP,Protein,Breast
+MYO5A,Protein,Breast
+MYOZ2,Protein,Breast
+MZT2A,Gene,Prostate
+NACA,Protein,Lung
+NAGK,Protein,Lung
+NCS1,Gene,Prostate
+NDUFA10,Protein,Breast
+NECTIN4,Protein,"Breast, Lung"
+NEK3,Gene,Prostate
+NELL1,Genomic,Esophagus
+NID1,Protein,Ovary
+NID2,Gene,"Head-and-neck, Ovary"
+NKX3-1,Gene,Prostate
+NLRP1,Gene,Prostate
+NME2,Protein,Breast
+NMU,Protein,Ovary
+NOS1,Protein,Breast
+NPC2,Protein,Ovary
+NR4A1,Gene,Prostate
+NR4A3,Gene,Prostate
+NRIP2,Gene,Prostate
+NRXN1,Gene,Prostate
+NT5E,Gene,Prostate
+NUCB1,Protein,Ovary
+NXN,Gene,Prostate
+NXT1,Gene,Prostate
+NY-ESO-1,Protein,Lung
+OAS1,Gene,Prostate
+ODC1,Protein,Breast
+OGG1,Protein,Lung
+OGT,Gene,Prostate
+OLFM1,Protein,Lung
+OLFML2B,Protein,Ovary
+OPA1,Gene,Prostate
+OPCML,Gene,Lung
+ORM1,Gene,Prostate
+OSBPL10,Gene,Prostate
+OVA1,Panel,Ovary
+OVGP1,Protein,Ovary
+p14,Genomic,Prostate
+p16,Genomic,"Breast, Esophagus, Lung, Prostate"
+P2RY14,Protein,Ovary
+PARK7,Protein,Lung
+PAX8,Gene,Lung
+PCA3,Gene,Prostate
+PCCA,Protein,Breast
+PCDH17,Protein,Ovary
+PCOLCE,Protein,Ovary
+PCSK9,Protein,Ovary
+PDCD10,Gene,Prostate
+PDCD4,Gene,Prostate
+PDCD6IP,Protein,Breast
+PDGFA,Protein,Breast
+PDLIM4,Gene,Prostate
+PDLIM5,Gene,Prostate
+PDLIM7,Gene,Prostate
+PDZK1IP1,Gene,Prostate
+PEBP1,Protein,Ovary
+Pecot MALDI MS signature + clinical and imaging data,Panel,Lung
+pentraxin-3,Protein,Lung
+PER1,Gene,Prostate
+PERP,Gene,Prostate
+PEX11B,Protein,Breast
+PFAS,Protein,Ovary
+PGAM1,Protein,Lung
+PGC,Gene,"Pancreas, Prostate"
+PGCP,Gene,Prostate
+PGGHG,Protein,Ovary
+Philips VOCs signature,Panel,Lung
+PI3,Protein,Ovary
+PIGF,Protein,Breast
+PIK3CA,Proteomic,Pancreas
+PITX2,Gene,Lung
+PLA2G2A,Gene,Prostate
+PLEC,Protein,Ovary
+pleiotrophin,Protein,Lung
+PLN,Gene,Prostate
+PLP1,Gene,Prostate
+PLPP2,Gene,Prostate
+PLTP,Protein,Ovary
+PLXNB1,Protein,Ovary
+PMS2P7,Protein,Lung
+PMS2P7,Protein,Lung
+PNISR,Gene,Prostate
+PNISR,Gene,Prostate
+PNP,Protein,Ovary
+PNP,Protein,Ovary
+POLQ,Protein,Ovary
+POLQ,Protein,Ovary
+POLR2L,Protein,Breast
+POLR2L,Protein,Breast
+POSTN,Protein,Ovary
+POSTN,Protein,Ovary
+PPBP,Protein,Ovary
+PPBP,Protein,Ovary
+PPIF,Gene,Prostate
+PPIF,Gene,Prostate
+PQBP1,Gene,Prostate
+PQBP1,Gene,Prostate
+PRDX4,Protein,Breast
+PRDX4,Protein,Breast
+PRDX6,Protein,Ovary
+PRDX6,Protein,Ovary
+PRKCI,Protein,Lung
+PRKCI,Protein,Lung
+PRL,Protein,"Breast, Ovary"
+PRL,Protein,"Breast, Ovary"
+PRMT1,Protein,Ovary
+PRMT1,Protein,Ovary
+PRMT5,Gene,Prostate
+PRMT5,Gene,Prostate
+PROM1,Gene,Prostate
+PROM1,Gene,Prostate
+proPSA,Protein,Prostate
+proPSA,Protein,Prostate
+PROS1,Protein,Ovary
+PROS1,Protein,Ovary
+Proteomic Panel for Lung Cancer,Panel,Lung
+Proteomic Panel for Lung Cancer,Panel,Lung
+PRPH,Gene,Prostate
+PRPH,Gene,Prostate
+PRR4,Gene,Prostate
+PRR4,Gene,Prostate
+PSA,Protein,"Breast, Prostate"
+PSA,Protein,"Breast, Prostate"
+PSAP,Protein,Ovary
+PSAP,Protein,Ovary
+PSAT1,Protein,Breast
+PSAT1,Protein,Breast
+PSCA,Gene,Prostate
+PSCA,Gene,Prostate
+PSD3,Gene,Prostate
+PSD3,Gene,Prostate
+PTCHD1,Protein,Breast
+PTCHD1,Protein,Breast
+PTEN,Proteomic,Pancreas
+PTEN,Proteomic,Pancreas
+PTH2R,Protein,Ovary
+PTH2R,Protein,Ovary
+PTK7,Protein,Ovary
+PTK7,Protein,Ovary
+PTPA,Protein,Breast
+PTPA,Protein,Breast
+PTPMT1,Protein,Breast
+PTPMT1,Protein,Breast
+PTPN11,Protein,Breast
+PTPN11,Protein,Breast
+PTPRC,Protein,Breast
+PTPRC,Protein,Breast
+PTPRE,Protein,Breast
+PTPRE,Protein,Breast
+PTPRF,Gene,Prostate
+PTPRF,Gene,Prostate
+PTPRN2,Gene,Lung
+PTPRN2,Gene,Lung
+PTPRS,Protein,Ovary
+PTPRS,Protein,Ovary
+PXN,Protein,Lung
+PXN,Protein,Lung
+QSOX1,Protein,Ovary
+QSOX1,Protein,Ovary
+RAB13,Protein,Breast
+RAB13,Protein,Breast
+RAB24,Protein,Breast
+RAB24,Protein,Breast
+RAB33B,Gene,Prostate
+RAB33B,Gene,Prostate
+RAB3B,Gene,Prostate
+RAB3B,Gene,Prostate
+RAB5A,Protein,Breast
+RAB5A,Protein,Breast
+RABEP1,Gene,Prostate
+RABEP1,Gene,Prostate
+RAC1,Protein,Breast
+RAC1,Protein,Breast
+RAC3,Protein,Breast
+RAC3,Protein,Breast
+Rahman 9-marker MALDI MS panel for Lung Cancer,Panel,Lung
+Rahman 9-marker MALDI MS panel for Lung Cancer,Panel,Lung
+RARB,Gene,Lung
+RARB,Gene,Lung
+RARRES1,Gene,Prostate
+RARRES1,Gene,Prostate
+RASSF1,Genomic,"Lung, Prostate"
+RASSF1,Genomic,"Lung, Prostate"
+RBBP4,Gene,Prostate
+RBBP4,Gene,Prostate
+RBP4,Protein,Lung
+RBP4,Protein,Lung
+RBPMS,Gene,Prostate
+RBPMS,Gene,Prostate
+RDH11,Gene,Prostate
+RDH11,Gene,Prostate
+RDH16,Gene,Prostate
+RDH16,Gene,Prostate
+REEP1,Gene,Prostate
+REEP1,Gene,Prostate
+REG1A,Protein,Pancreas
+REG1A,Protein,Pancreas
+REG3A,Protein,Pancreas
+REG3A,Protein,Pancreas
+REN,Protein,Lung
+RET,Gene,Prostate
+RGS5,Protein,Breast
+RHOA,Protein,Breast
+RHOQ,Gene,Prostate
+RMND5A,Protein,Ovary
+RNF113A,Protein,Breast
+RNF208,Gene,Prostate
+ROMA,Panel,Ovary
+RPL13,Gene,Prostate
+RPRM,Gene,Prostate
+RPS27A,Protein,Lung
+RPSA,Protein,Lung
+RRAGD,Gene,Prostate
+RRAS2,Gene,Prostate
+RUNX3,Genomic,"Esophagus, Lung"
+RXRG,Gene,Prostate
+S-Adenosylmethionine,Protein,Lung
+S100A4,Protein,Breast
+S100A6,Protein,Breast
+S100B,Gene,Prostate
+S100P,Gene,"Lung, Prostate"
+SAA@,Protein,Breast
+SAT1,Protein,Breast
+SATL1,Protein,Breast
+SC5D,Gene,Prostate
+SCARA3,Gene,Prostate
+SCCAIC,Protein,Liver
+SCD,Gene,Prostate
+SCGB2A1,Protein,"Ovary, Prostate"
+SCNN1A,Protein,"Ovary, Prostate"
+SDC1,Protein,Ovary
+SEC23B,Protein,Ovary
+SECTM1,Protein,Ovary
+SEL1L3,Gene,Prostate
+SELENBP1,Protein,Ovary
+SELL,Protein,"Breast, Lung"
+SERINC2,Gene,Prostate
+SERP1,Gene,Prostate
+SERPINA1,Protein,"Liver, Lung"
+SERPINA6,Protein,Ovary
+SERPINB3,Protein,"Breast, Liver, Lung"
+SERPINE1,Protein,Ovary
+SERPINH1,Protein,Breast
+SF3A1,Protein,Breast
+SFN,Protein,Breast
+SFRP1,Proteomic,Pancreas
+SFTPB,Protein,Lung
+SFTPC,Protein,Lung
+SGCA,Gene,Prostate
+Shen 4-marker miRNA panel for lung cancer,Panel,Lung
+Showe 29-gene signature for lung cancer,Panel,Lung
+SHOX2,Gene,Lung
+SLA,Protein,Breast
+SLAMF8,Protein,Ovary
+SLC11A1,Protein,Ovary
+SLC11A2,Gene,Prostate
+SLC12A2,Gene,Prostate
+SLC22A3,Gene,Prostate
+SLC25A16,Protein,Breast
+SLC26A2,Gene,Prostate
+SLC26A4,Gene,Prostate
+SLC2A3,Gene,Prostate
+SLC30A6,Protein,Ovary
+SLC33A1,Protein,Breast
+SLC34A2,Gene,Prostate
+SLC35C2,Gene,Prostate
+SLC39A6,Gene,Prostate
+SLC4A1AP,Protein,Prostate
+SLC4A4,Gene,Prostate
+SLC5A1,Gene,Prostate
+SLC5A7,Gene,Prostate
+SLC6A14,Gene,Prostate
+SLC9A3R2,Gene,Prostate
+SLIT2,Proteomic,Pancreas
+SLK,Gene,Prostate
+SLPI,Protein,"Lung, Ovary, Prostate"
+SMA4,Genomic,Ovary
+SMRP,Protein,"Lung, Ovary"
+SNRPA1,Protein,Breast
+SOCS3,Gene,Prostate
+SOD1,Gene,Lung
+SOD3,Protein,Ovary
+Somalogic 12-marker panel for lung cancer,Panel,Lung
+SOST,Protein,Breast
+SOX10,Gene,Prostate
+SOX17,Proteomic,Pancreas
+SOX2,Protein,"Breast, Lung"
+SPACA9,Gene,Prostate
+SPINK1,Gene,Prostate
+SPINT2,Protein,Ovary
+Spira 80-marker panel plus clinical factors,Panel,Lung
+SPON1,Protein,Ovary
+SPON2,Protein,Ovary
+SPP1,Protein,"Breast, Lung, Ovary"
+SPP2,Protein,Ovary
+SQOR,Gene,Prostate
+SRD5A3,Gene,Prostate
+SRP54,Protein,Breast
+SRP72,Gene,Prostate
+SRSF8,Gene,Prostate
+SSBP1,Protein,Breast
+SST,Genomic,Esophagus
+ST13,Protein,Ovary
+ST14,Protein,"Ovary, Prostate"
+ST5,Gene,Prostate
+STAT1,Gene,Prostate
+STAT2,Gene,Prostate
+STAT6,Protein,Breast
+STBD1,Gene,Prostate
+STEAP4,Gene,Prostate
+STK38L,Gene,Prostate
+STOM,Gene,"Breast, Prostate"
+STOML2,Protein,Breast
+sTRA,Glycomic,Pancreas
+STT3A,Gene,Prostate
+STYXL1,Gene,Prostate
+SULT2B1,Gene,Prostate
+SUSD5,Gene,Prostate
+SVIL,Gene,Prostate
+SYDE1,Gene,Prostate
+SYNE3,Gene,Prostate
+SYNGR1,Gene,Prostate
+TAC1,Genomic,Esophagus
+TAGLN2,Protein,Ovary
+Tanaka Circulating Tumor Cells (CTCs),Protein,Lung
+TBXA2R,Gene,Prostate
+TCEAL2,Gene,Prostate
+TCF21,Genomic,"Lung, Prostate"
+TEK,Protein,Breast
+Testosterone,Metabolomic,Prostate
+TF,Protein,"Ovary, Prostate"
+TFCP2,Protein,Breast
+TFE3,Gene,Prostate
+TFF3,Gene,Prostate
+TFPI,Protein,Lung
+TGFB1I1,Gene,Prostate
+TGM4,Gene,Prostate
+THBS1,Protein,Prostate
+ThisIsATest,,Breast
+THRA,Gene,Prostate
+THY1,Gene,Prostate
+TIMP1,Protein,"Breast, Colon, Lung, Pancreas"
+TLR2,Protein,Breast
+TMBIM6,Gene,Prostate
+TMEFF2,Genomic,Esophagus
+TMEM251,Gene,Prostate
+TMEM30B,Gene,Prostate
+TMPRSS2,Gene,Prostate
+TMPRSS2:ERG,Gene,Prostate
+TMSB15A,Gene,Prostate
+TMSB4X,Protein,Lung
+TNF,Protein,"Breast, Lung, Ovary"
+TNFAIP1,Protein,Ovary
+TNFAIP6,Protein,Ovary
+TNFRSF11B,Protein,Breast
+TNFRSF1A,Protein,"Breast, Ovary"
+TNFRSF1B,Protein,"Breast, Ovary"
+TNFRSF21,Protein,Ovary
+TNFRSF25,Gene,Lung
+TNFRSF6B,Protein,"Colon, Ovary"
+TNFSF10,Gene,Prostate
+TNFSF12,Gene,Prostate
+TNFSF8,Protein,Lung
+TNS1,Gene,Prostate
+TOM1L1,Gene,Prostate
+TOX4,Gene,Prostate
+TP53,Proteomic,"Lung, Pancreas, Prostate"
+TP63,Gene,"Lung, Prostate"
+TPD52,Gene,Prostate
+TPD52L1,Gene,Prostate
+TRADD,Gene,Prostate
+TRAF3IP2,Gene,Prostate
+TRAF4,Protein,Breast
+TRAM1,Gene,Prostate
+transthyretin,Protein,Ovary
+TRIM22,Gene,Prostate
+TRIM27,Gene,Prostate
+TRIM32,Protein,Breast
+TRMT11,Gene,Prostate
